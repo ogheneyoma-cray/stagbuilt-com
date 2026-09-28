@@ -1,0 +1,9 @@
+node_modules
+dist
+.output
+.git
+.gitignore
+bun.lock
+*.md
+.env
+.env.*
